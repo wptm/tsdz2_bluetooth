@@ -7,4 +7,5 @@ Schematic:
 ![Alt text](tsdz2_bluetooth.JPG?raw=true)
 
 Video:
+https://www.youtube.com/watch?v=JfjpHtdSa6c
 https://www.youtube.com/watch?v=CiTuFZmhYbA
