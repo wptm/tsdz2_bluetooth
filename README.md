@@ -7,5 +7,6 @@ This is here a basic schematic.
 ![Alt text](tsdz2_bluetooth.JPG?raw=true)
 
 The voltage regulator makes lots heat. Therefore you can also build it into the housing and connect it directly to the controller board. There you can find +5v as well as the uart rx/tx.
-https://github.com/OpenSource-EBike-firmware/TSDZ2_wiki/raw/master/TSDZ2_motor_controller_without_throttle_wires.jpeg
+![alt text](https://github.com/OpenSource-EBike-firmware/TSDZ2_wiki/raw/master/TSDZ2_motor_controller_without_throttle_wires.jpeg)
+
 
